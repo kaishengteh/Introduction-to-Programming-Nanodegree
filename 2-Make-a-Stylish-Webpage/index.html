@@ -1,0 +1,152 @@
+<!DOCTYPE html> <!-- The DOCTYPE tells the browser what kind of document this is (HTML) -->
+<html lang='en'>
+<head> <!-- The head tag includes important information about the page -->
+  <meta charset="UTF-8"> <!-- This line defines something called "character encoding" -->
+  <title>Introduction to HTML and CSS</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div>
+    <h1>Introduction to Programming Nanodegree</h1>
+      <div class="toc">
+        <h2>Table of Contents</h2>
+        <ol>
+          <li><a href="#lesson-1">Lesson 1: Learn to Code</a>
+            <ul>
+              <li><a href="#lesson-1-1">Thinking like a Programmer</a></li>
+              <li><a href="#lesson-1-2">Components of the Web</a></li>
+              <li><a href="#lesson-1-3">HyperText Markup Languge (HTML) Basic</a></li>
+            </ul>
+          </li>
+          <li><a href="#lesson-2">Lesson 2: Making a Stylish Webpage</a>
+            <ul>
+              <li><a href="#lesson-2-1">Creating a Structured Document</a></li>
+              <li><a href="#lesson-2-2">CSS Vocabulary</a></li>
+              <li><a href="#lesson-2-3">Box Model</a></li>
+            </ul>
+          </li>
+        </ol>
+      </div>
+      <div class="lesson" id="lesson-1">
+        <div class="lesson-title">
+          <h2>Lesson 1: Learn to Code</h2>
+        </div>
+        <div class="lesson-content">
+          <div class="content-concept" id="lesson-1-1">
+            <div class="content-title">
+              <h3>Thinking like a Programmer</h3>
+            </div>
+            <p>
+              A large goal of this Nanodegree is to give you practice thinking like a computer programmer. Longtime programmers will often talk about how the programming thought process has helped them in other areas of their life, but what does it mean to "think like a programmer?" In this Nanodegree we will focus on five specific ways of thinking that all programmers have to use all the time. We will come back to these ideas repeatedly throughout the Nanodegree.
+            </p>
+            <div class="content-description">
+              <ol>
+                  <li class="lists">Procedural Thinking - create unambigious instructions</li>
+                  <li class="lists">Abstract Thinking - find generality among seemingly different things</li>
+                  <li class="lists">Systems Thinking - break a big problem down into smaller pieces</li>
+                  <li class="lists">Technological Empathy - ability to understand how computer works</li>
+                  <li class="lists">Debugging
+                    <ol class="sublist" type="a">
+                      <li>Collect evidence (what makes this program fail?)</li>
+                      <li>Generate theories (what may have caused this problem?)</li>
+                      <li>Test those theories (if my theory is correct, how could I find out?)</li>
+                      <li>Fix the problem</li>
+                    </ol>
+                  </li>
+              </ol>
+            </div>
+          </div>
+          <div class="content-concept" id="lesson-1-2">
+            <div class="content-title">
+              <h3>Components of the Web</h3>
+            </div>
+            <div class="content-description">
+              <ul>
+                <li>Browser</li>
+                <li>Internet</li>
+                <li>Server</li>
+                <li>HTTP</li>
+              </ul>
+            </div>
+          </div>
+          <div class="content-concept" id="lesson-1-3">
+            <div class="content-title">
+              <h3>HyperText Markyp Language (HTML) Basic</h3>
+            </div>
+            <div class="content-description">
+              <p>
+                HTML is made up of:
+              </p>
+              <ul>
+                <li>Text content (what you see)</li>
+                <li>Markup (what it looks like)</li>
+                <li>References to other documents, e.g. images or videos</li>
+                <li>Links to other pages</li>
+              </ul>
+              <p>
+                HTML Markup Examples
+              </p>
+              <ul>
+                <li>&lt;Tag&gt;Write between the tags&lt;/Tag&gt;</li>
+                <li>&lt;b&gt;<b>This is how you bold</b>&lt;/b&gt;</li>
+                <li>&lt;em&gt;<em>Italicize the words with em</em>&lt;/em&gt;</li>
+                <li>&lt;a href="url"&gt; add links to words &lt;/a&gt;</li>
+                <li>&lt;img src="url" alt="adding picture"&gt; - it is a void tag</li>
+                <li>&lt;br&gt;Breaking the line (inline)&lt;/br&gt;</li>
+                <li>&lt;p&gt;making paragraph - in blocks&lt;/p&gt;</li>
+                <li>&lt;span&gt;Group inline elements&lt;/span&gt;</li>
+                <li>&lt;div&gt;Group block elements to format&lt;/div&gt;</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="lesson" id="lesson-2">
+        <div class="lesson-title">
+          <h2>Lesson 2: Making a Stylish Webpage</h2>
+        </div>
+        <div class="lesson-content">
+          <div class="content-concept" id="lesson-2-1">
+            <div class="content-title">
+              <h3>Creating a Structured Document</h3>
+            </div>
+            <div class="content-description">
+              <p>
+                HTML-CSS_DOM
+              </p>
+              <ul>
+                <li>both are languages</li>
+                <li>HTML controls the structure of a web page</li>
+                <li>CSS (Cascading Style Sheets) controls the style of a page</li>
+                <li>DOM (Document Object Model) refers to the tree-like structure of a page</li>
+              </ul>
+            </div>
+          </div>
+          <div class="content-concept" id="lesson-2-2">
+            <div class="content-title">
+              <h3>CSS Vocabulary</h3>
+            </div>
+            <div class="content-description">
+              <ul>
+                <li><b>Rule</b>: a line of CSS code describing the value that a certain attribute should take</li>
+                <li><b>Property</b>: the proporty you ant to change</li>
+                <li><b>Value</b>: the value that you want to assign to the attribute</li>
+                <li><b>Selector</b>: the name that you use to in order to target the elements that are assigned to a class or id attribute in the HTML</li>
+                <li><b>Class</b>: a class refers to a group of elements that can be styled together. Class names should not contain periods or any other punctuation marks such as class="1.1"</li>
+                <li><b>ID</b>: ID's are unique identifiers that uniquely identifies an element in HTML</li>
+              </ul>
+            </div>
+          </div>
+          <div class="content-concept" id="lesson-2-3">
+            <div class="content-title">
+              <h3>Box Model</h3>
+            </div>
+            <div class="content-description">
+              <img src="https://user-images.githubusercontent.com/14093302/30003329-11370df6-90ee-11e7-95f5-c5986918c223.png" alt="the Box Model">
+            </div>
+          </div>
+        </div>
+      </div>
+  </div>
+</body>
+</html>

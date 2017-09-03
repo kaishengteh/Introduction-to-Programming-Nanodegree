@@ -1,0 +1,63 @@
+*{
+  margin: 10px;
+  font-family: "Arial", "Calibri";
+}
+
+body{
+  background: grey;
+}
+
+h1{
+  background: #14408A;
+  text-align: center;
+  color: white;
+}
+
+.toc{
+  background: #6B98E6;
+  padding: 10px;
+}
+
+.lesson{
+  background: #BAC9E3;
+  padding: 5px;
+}
+
+.lesson-title{
+  background: #6B98E6;
+  padding: 5px;
+}
+
+.lesson-content{
+  background: #B7B9BD;
+  padding: 5px;
+}
+
+.content-concept{
+  background: #97B5E9;
+  padding: 5px;
+}
+
+.content-title{
+  background:#97D0E9;
+  padding: 1px;
+}
+
+.content-description{
+  background: #55A4FE;
+  padding: 5px;
+}
+
+.lists{
+  font-weight: Bold;
+}
+
+.sublist{
+  font-weight: normal;
+}
+
+img{
+  max-width: 100%;
+  display: block;
+  margin: auto;
+}
