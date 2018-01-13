@@ -7,16 +7,15 @@ Welcome to the Introduction to Programming Nanodegree program. This is your firs
 
 ### Part 2: Make a Stylish Webpage
 For the project, you'll use HTML and CSS to make a stylish web page on any topic. You will apply your knowledge of HTML Document Structure to your html file and then create custom CSS styling based on your personal preferences.
-Project: [Make a Web Page](https://rawgit.com/kaishengteh/Introduction-to-Programming-Nanodegree/master/2-Make-a-Stylish-Webpage/index.html)
+- Project: [Make a Web Page](https://rawgit.com/kaishengteh/Introduction-to-Programming-Nanodegree/master/2-Make-a-Stylish-Webpage/index.html)
 
 ### Part 3: Code Your Own Quiz
 You will use the Python programming language to build your own quiz. You will use a fill-in-the blank style to create a quiz that can even be used as a study tool to help you remember important vocabulary.
-Project: Code Your Own Quiz
+- Project: Code Your Own Quiz
 
 ### Part 4: Create a Movie Website
 You will write code to store a list of your favorite movies, including box art imagery and a movie trailer URL. You will then use your code to generate a static web page allowing visitors to browse their movies and watch the trailer.
-
-Project: Create a Movie Trailer Website
+- Project: Create a Movie Trailer Website
 
 ### Part 5: Discover Your Path
 In this section, there is no project submission. Instead, you will explore a quick overview of the vast world of programming. After this section, you'll have a better understanding of different options you have as a programmer. This will help guide you in your final project for this program.
