@@ -1,46 +1,27 @@
 # Introduction-to-Programming-Nanodegree
 This repository contains projects for Udacity's [Introduction to Programming Nanodegree](https://www.udacity.com/course/intro-to-programming-nanodegree--nd000).
 
-Udacity Intro to Programming Nanodegree
-Projects for my Udacity Intro to Programming Nanodegree
+### Part 1: Learn to Code
+Welcome to the Introduction to Programming Nanodegree program. This is your first step on your journey to become a programmer. Get started early with html and feedback from our reviewers!
+Project: Getting Started with HTML
 
-Stage 0: Getting Started with HTML
-Get some early feedback on what you're learning within the first week of your Nanodegree experience.
+### Part 2: Make a Stylish Webpage
+For the project, you'll use HTML and CSS to make a stylish web page on any topic. You will apply your knowledge of HTML Document Structure to your html file and then create custom CSS styling based on your personal preferences.
+Project: Make a Web Page
 
-View project
+### Part 3: Code Your Own Quiz
+You will use the Python programming language to build your own quiz. You will use a fill-in-the blank style to create a quiz that can even be used as a study tool to help you remember important vocabulary.
+Project: Code Your Own Quiz
 
-Stage 1: Webpages, Documents, and Structure
-Built using HTML and CSS, this project demonstrates knowledge of basic website design.
+### Part 4: Create a Movie Website
+You will write code to store a list of your favorite movies, including box art imagery and a movie trailer URL. You will then use your code to generate a static web page allowing visitors to browse their movies and watch the trailer.
 
-HTML
-CSS
-Structured documents
-HTML classes
-View project
+Project: Create a Movie Trailer Website
 
-Stage 2: Telling Computers What To Do
-Built a Mad Libs-style game to leverage the power of functions in Python and mastered the ability to automate repetitive tasks that can be done on a computer.
+### Part 5: Discover Your Path
+In this section, there is no project submission. Instead, you will explore a quick overview of the vast world of programming. After this section, you'll have a better understanding of different options you have as a programmer. This will help guide you in your final project for this program.
 
-Python syntax
-View project
-
-Stage 3: The Power of Abstraction
-Created a simple movie website with images and trailers, this project demonstrates knowledge of Object Oriented Programming.
-
-HTML
-CSS
-Python classes and Object Oriented Programming
-View project
-
-Stage 4: The Full Stack & Stage 5: Explore!
-Built a Python back end using Google App Engine, Jinja2 HTML templates, and a database to host a web page online and allow user comments. Demonstrated further understanding of JavaScript.
-
-Google App Engine
-Jinja2 templates
-GET & POST requests
-Database setup
-Database querying
-JavaScript
-View project (not optimized for mobile). Submit a blank comment to experience a game-changing UI feature.
+### Part 6: Choose Your Path
+Choose one of the five paths (Front-End, Back-End, Android, Data Analyst, or iOS) and complete the associated course and project of your choosing. After you have met specifications on one of these project options (as well as the other required projects), you'll be eligible to graduate.
 
 ![Udacity Introduction to Programming Nanodegree](https://user-images.githubusercontent.com/14093302/34338440-b5535620-e9a3-11e7-8262-ba943314ff24.jpg)
