@@ -14,7 +14,7 @@ For the project, you'll use HTML and CSS to make a stylish web page on any topic
 ### Part 3: Code Your Own Quiz
 You will use the Python programming language to build your own quiz. You will use a fill-in-the blank style to create a quiz that can even be used as a study tool to help you remember important vocabulary.
 
-- Project: [Code Your Own Quiz](https://trinket.io/library/trinkets/293f94acc9)
+- Project: [Code Your Own Quiz](https://repl.it/@kaishengteh/Code-Your-Own-Quiz)
 
 ### Part 4: Create a Movie Website
 You will write code to store a list of your favorite movies, including box art imagery and a movie trailer URL. You will then use your code to generate a static web page allowing visitors to browse their movies and watch the trailer.
