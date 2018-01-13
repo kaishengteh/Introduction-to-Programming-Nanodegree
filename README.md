@@ -7,7 +7,7 @@ Welcome to the Introduction to Programming Nanodegree program. This is your firs
 
 ### Part 2: Make a Stylish Webpage
 For the project, you'll use HTML and CSS to make a stylish web page on any topic. You will apply your knowledge of HTML Document Structure to your html file and then create custom CSS styling based on your personal preferences.
-Project: Make a Web Page
+Project: [Make a Web Page](https://rawgit.com/kaishengteh/Introduction-to-Programming-Nanodegree/master/2-Make-a-Stylish-Webpage/index.html)
 
 ### Part 3: Code Your Own Quiz
 You will use the Python programming language to build your own quiz. You will use a fill-in-the blank style to create a quiz that can even be used as a study tool to help you remember important vocabulary.
