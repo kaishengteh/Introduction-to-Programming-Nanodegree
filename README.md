@@ -15,7 +15,7 @@ You will use the Python programming language to build your own quiz. You will us
 
 ### Part 4: Create a Movie Website
 You will write code to store a list of your favorite movies, including box art imagery and a movie trailer URL. You will then use your code to generate a static web page allowing visitors to browse their movies and watch the trailer.
-- Project: [Create a Movie Trailer Website](https://rawgit.com/kaishengteh/Introduction-to-Programming-Nanodegree/master/4.%20Create%20a%20Movie%20Website/Create%20a%20Movie%20Trailer%20Website/fresh_tomatoes.html)
+- Project: [Create a Movie Trailer Website](https://rawgit.com/kaishengteh/Introduction-to-Programming-Nanodegree/master/4-Create-a-Movie-Website/Create-a-Movie-Trailer-Website/fresh_tomatoes.html)
 
 ### Part 5: Discover Your Path
 In this section, there is no project submission. Instead, you will explore a quick overview of the vast world of programming. After this section, you'll have a better understanding of different options you have as a programmer. This will help guide you in your final project for this program.
