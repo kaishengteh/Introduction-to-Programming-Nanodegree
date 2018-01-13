@@ -3,7 +3,7 @@ This repository contains projects for Udacity's [Introduction to Programming Nan
 
 ### Part 1: Learn to Code
 Welcome to the Introduction to Programming Nanodegree program. This is your first step on your journey to become a programmer. Get started early with html and feedback from our reviewers!
-Project: Getting Started with HTML
+- Project: [Getting Started with HTML](https://rawgit.com/kaishengteh/Introduction-to-Programming-Nanodegree/master/1.%20Learn%20to%20Code/firstproject.html)
 
 ### Part 2: Make a Stylish Webpage
 For the project, you'll use HTML and CSS to make a stylish web page on any topic. You will apply your knowledge of HTML Document Structure to your html file and then create custom CSS styling based on your personal preferences.
