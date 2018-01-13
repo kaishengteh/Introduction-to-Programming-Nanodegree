@@ -28,7 +28,9 @@ You will write code to store a list of your favorite movies, including box art i
 ### Part 5: Discover Your Path
 In this section, there is no project submission. Instead, you will explore a quick overview of the vast world of programming. After this section, you'll have a better understanding of different options you have as a programmer. This will help guide you in your final project for this program.
 
-### Part 6: Choose Your Path
-Choose one of the five paths (Front-End, Back-End, Android, Data Analyst, or iOS) and complete the associated course and project of your choosing. After you have met specifications on one of these project options (as well as the other required projects), you'll be eligible to graduate.
+### Part 6: Data Analysis
+Choose one of Udacity's curated datasets, perform an investigation, and share your findings.
+
+- Project: [Investigate a Dataset](https://github.com/kaishengteh/Introduction-to-Programming-Nanodegree/blob/master/6-Data-Analysis/Investigate_a_Dataset.ipynb)
 
 ![Udacity Introduction to Programming Nanodegree](https://user-images.githubusercontent.com/14093302/34338440-b5535620-e9a3-11e7-8262-ba943314ff24.jpg)
