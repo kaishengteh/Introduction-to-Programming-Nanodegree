@@ -28,7 +28,7 @@ You will write code to store a list of your favorite movies, including box art i
 ### Part 5: Discover Your Path
 In this section, there is no project submission. Instead, you will explore a quick overview of the vast world of programming. After this section, you'll have a better understanding of different options you have as a programmer. This will help guide you in your final project for this program.
 
-### Part 6: Data Analysis
+### Part 6: [Data Analysis]((https://www.udacity.com/course/intro-to-data-analysis--ud170))
 Choose one of Udacity's curated datasets, perform an investigation, and share your findings.
 
 - Project: [Investigate a Dataset](https://github.com/kaishengteh/Introduction-to-Programming-Nanodegree/blob/master/6-Data-Analysis/Investigate_a_Dataset.ipynb)
