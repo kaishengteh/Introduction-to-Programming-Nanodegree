@@ -16,7 +16,7 @@ You will use the Python programming language to build your own quiz. You will us
 
 - Project: [Code Your Own Quiz](https://repl.it/@kaishengteh/Code-Your-Own-Quiz)
 
-### Part 4: Create a Movie Website
+### Part 4: [Create a Movie Website](https://www.udacity.com/course/programming-foundations-with-python--ud036)
 You will write code to store a list of your favorite movies, including box art imagery and a movie trailer URL. You will then use your code to generate a static web page allowing visitors to browse their movies and watch the trailer.
 
 - Mini Project 1: [Take a Break](https://repl.it/@kaishengteh/Take-a-Break)
