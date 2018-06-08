@@ -1,6 +1,6 @@
 # Introduction-to-Programming-Nanodegree
 
-## Kai Sheng Teh
+### Kai Sheng Teh
 
 This repository contains projects for Udacity's [Introduction to Programming Nanodegree](https://www.udacity.com/course/intro-to-programming-nanodegree--nd000).
 
